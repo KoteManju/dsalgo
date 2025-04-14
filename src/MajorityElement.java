@@ -20,3 +20,6 @@ public class MajorityElement {
         System.out.println(majority);
     }
 }
+
+
+//test
